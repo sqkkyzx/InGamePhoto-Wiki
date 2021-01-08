@@ -59,3 +59,5 @@ _未知的支持情况_
 
 ## 相关链接
 
+{% embed url="https://assassinscreed.fandom.com/zh/wiki/%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1%EF%BC%9A%E8%8B%B1%E7%81%B5%E6%AE%BF" caption="" %}
+

@@ -16,7 +16,9 @@ description: 历史体验/旅游模拟器顶级开发商
 
 {% page-ref page="assassins-creed-syndicate.md" %}
 
-#### 法国巴黎
+#### 法国巴黎（十八世纪）
+
+{% page-ref page="assassins-creed-unity.md" %}
 
 ### 北欧
 

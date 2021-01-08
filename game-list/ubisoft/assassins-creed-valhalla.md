@@ -25,7 +25,7 @@ _相当完美的内置相机_
 | 无HUD | ✅ |
 | 凝固瞬间 | ✅ |
 
-### _Nvida Ansel_
+### \_\_[_Nvida Ansel_](https://www.nvidia.cn/geforce/geforce-experience/ansel/)\_\_
 
 {% hint style="info" %}
 _未知的支持情况_

@@ -12,6 +12,10 @@ description: 育碧：历史体验/旅游模拟器顶级开发商 | 国际旅游
 
 ### 西欧
 
+#### 英国伦敦
+
+{% page-ref page="kan-men-gou-jun-tuan.md" %}
+
 #### 英国伦敦（十九世纪）
 
 {% page-ref page="assassins-creed-syndicate.md" %}
@@ -51,6 +55,18 @@ description: 育碧：历史体验/旅游模拟器顶级开发商 | 国际旅游
 #### 纽约
 
 {% page-ref page="tom-clancys-the-division.md" %}
+
+#### 旧金山
+
+{% page-ref page="watch\_dogs-2.md" %}
+
+#### 芝加哥
+
+{% page-ref page="watch\_dogs.md" %}
+
+#### 蒙大拿
+
+{% page-ref page="far-cry-5.md" %}
 
 #### 极光岛
 

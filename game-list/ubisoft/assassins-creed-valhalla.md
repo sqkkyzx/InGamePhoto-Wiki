@@ -25,7 +25,7 @@ _完美的内置相机。_
 | 无HUD | ✅  |
 | 凝固瞬间 | ✅  |
 
-### _vida Ansel_
+### _Nvida Ansel_
 
 ### _Injectable Generic Camera System_
 

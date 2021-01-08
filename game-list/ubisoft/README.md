@@ -40,6 +40,28 @@ description: 历史体验/旅游模拟器顶级开发商
 
 {% page-ref page="assassins-creed-origins.md" %}
 
+## 美洲
+
+### 北美
+
+#### 华盛顿特区 \| 纽约
+
+{% page-ref page="tom-clancys-the-division-2.md" %}
+
+#### 纽约
+
+{% page-ref page="tom-clancys-the-division.md" %}
+
+#### 极光岛
+
+{% page-ref page="tom-clancys-ghost-recon-breakpoint.md" %}
+
+### 南美
+
+#### 玻利维亚
+
+{% page-ref page="tom-clancys-ghost-recon-wildlands.md" %}
+
 
 
 

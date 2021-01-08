@@ -8,7 +8,7 @@
 * [Ubisoft](game-list/ubisoft/README.md)
   * [刺客信条：英灵殿](game-list/ubisoft/assassins-creed-valhalla.md)
   * [刺客信条：奥德赛](game-list/ubisoft/untitled.md)
-  * [刺客信条：起源](game-list/ubisoft/untitled-1.md)
+  * [刺客信条：起源](game-list/ubisoft/assassins-creed-origins.md)
   * [刺客信条：枭雄](game-list/ubisoft/untitled-2.md)
   * [刺客信条：大革命](game-list/ubisoft/untitled-3.md)
   * [孤岛惊魂5](game-list/ubisoft/untitled-4.md)

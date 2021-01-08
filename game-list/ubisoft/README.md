@@ -36,6 +36,12 @@ description: 育碧：历史体验/旅游模拟器顶级开发商 | 国际旅游
 
 {% page-ref page="assassins-creed-odyssey.md" %}
 
+### 中欧
+
+####  **阿尔卑斯**山脉
+
+{% page-ref page="steep.md" %}
+
 ## 非洲
 
 ### 北非
@@ -71,6 +77,10 @@ description: 育碧：历史体验/旅游模拟器顶级开发商 | 国际旅游
 #### 美国极光岛（虚构）
 
 {% page-ref page="tom-clancys-ghost-recon-breakpoint.md" %}
+
+#### 自由岛 \| 金门大桥 \| 胡佛水坝 \| 落基山脉 \| 化石州立公园 \| 圣莫妮卡码头等（融合）
+
+{% page-ref page="the-crew-2.md" %}
 
 ### 南美
 

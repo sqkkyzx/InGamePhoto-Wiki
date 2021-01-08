@@ -82,15 +82,19 @@ description: 育碧：历史体验/旅游模拟器顶级开发商 | 国际旅游
 
 {% page-ref page="tom-clancys-ghost-recon-breakpoint.md" %}
 
-#### 自由岛 \| 金门大桥 \| 胡佛水坝 \| 落基山脉 \| 化石州立公园 \| 圣莫妮卡码头等（融合）
-
-{% page-ref page="the-crew-2.md" %}
-
 ### 南美
 
 #### 玻利维亚
 
 {% page-ref page="tom-clancys-ghost-recon-wildlands.md" %}
+
+## 其他
+
+{% page-ref page="the-crew-2.md" %}
+
+{% page-ref page="for-honor.md" %}
+
+{% page-ref page="prince-of-persia-the-sands-of-time.md" %}
 
 
 

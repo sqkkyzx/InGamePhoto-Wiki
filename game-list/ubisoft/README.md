@@ -48,27 +48,27 @@ description: 育碧：历史体验/旅游模拟器顶级开发商 | 国际旅游
 
 ### 北美
 
-#### 华盛顿特区 \| 纽约
+#### 华盛顿特区
 
 {% page-ref page="tom-clancys-the-division-2.md" %}
 
-#### 纽约
+####  美国纽约州纽约
 
 {% page-ref page="tom-clancys-the-division.md" %}
 
-#### 旧金山
+#### 美国加利福尼亚州旧金山
 
 {% page-ref page="watch\_dogs-2.md" %}
 
-#### 芝加哥
+#### 美国伊利诺伊州芝加哥
 
 {% page-ref page="watch\_dogs.md" %}
 
-#### 蒙大拿
+#### 美国蒙大拿州霍普县（虚构）
 
 {% page-ref page="far-cry-5.md" %}
 
-#### 极光岛
+#### 美国极光岛（虚构）
 
 {% page-ref page="tom-clancys-ghost-recon-breakpoint.md" %}
 

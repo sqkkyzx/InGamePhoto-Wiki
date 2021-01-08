@@ -1,5 +1,5 @@
 ---
-description: 历史体验/旅游模拟器顶级开发商
+description: 育碧：历史体验/旅游模拟器顶级开发商 | 国际旅游公司
 ---
 
 # Ubisoft

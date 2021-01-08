@@ -6,16 +6,16 @@ description: Assassin's Creed Valhalla
 
 ![](https://wpcos.igp.sqkkyzx.cn/wiki/hero/hero_assassins-creed-valhalla.jpg)
 
-## 风光
+## 风景特色
 
-本游戏是《刺客信条系列》的第十二部正统续作，由育碧娱乐软件公司出品，背景设定在维京时代。玩家在游戏中将扮演主角艾沃尔，化身维京战士参与对英格兰的劫掠。
+九世纪的斯堪的纳维亚半岛，挪威、瑞典、英国及北海，极光和阿斯加德。
 
 ## 拍摄工具
 
-### _Vanilla Photo Mode_
+### 原生照相模式
 
 {% hint style="success" %}
-_完美的内置相机。_
+_相当完美的内置相机_
 {% endhint %}
 
 | 项目 | 支持情况 |
@@ -27,15 +27,31 @@ _完美的内置相机。_
 
 ### _Nvida Ansel_
 
+{% hint style="info" %}
+_未知的支持情况_
+{% endhint %}
+
 ### _Injectable Generic Camera System_
+
+{% hint style="info" %}
+未知的支持情况
+{% endhint %}
 
 ### _Cheat Engine Camera Tool_
 
+{% hint style="info" %}
+未知的支持情况
+{% endhint %}
+
 ### _Others_
+
+{% hint style="info" %}
+未知的支持情况
+{% endhint %}
 
 ## 画质
 
-### Vanilla
+### 原生画质
 
 ### Rashade
 

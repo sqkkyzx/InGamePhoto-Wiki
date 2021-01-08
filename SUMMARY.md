@@ -11,6 +11,7 @@
   * [刺客信条：起源](game-list/ubisoft/assassins-creed-origins.md)
   * [刺客信条：枭雄](game-list/ubisoft/assassins-creed-syndicate.md)
   * [刺客信条：大革命](game-list/ubisoft/assassins-creed-unity.md)
+  * [刺客信条 3](game-list/ubisoft/assassins-creed-3.md)
   * [幽灵行动：断点](game-list/ubisoft/tom-clancys-ghost-recon-breakpoint.md)
   * [幽灵行动：荒野](game-list/ubisoft/tom-clancys-ghost-recon-wildlands.md)
   * [全境封锁 2](game-list/ubisoft/tom-clancys-the-division-2.md)

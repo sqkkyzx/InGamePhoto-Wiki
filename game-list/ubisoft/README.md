@@ -70,6 +70,10 @@ description: 育碧：历史体验/旅游模拟器顶级开发商 | 国际旅游
 
 {% page-ref page="watch\_dogs.md" %}
 
+#### 美国波士顿 \| 美国纽约
+
+{% page-ref page="assassins-creed-3.md" %}
+
 #### 美国蒙大拿州霍普县（虚构）
 
 {% page-ref page="far-cry-5.md" %}

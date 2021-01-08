@@ -12,7 +12,7 @@ description: Assassin's Creed Valhalla
 
 ## 拍摄工具
 
-### 原生照相模式
+### [原生照相模式](https://www.igp.wiki/)
 
 {% hint style="success" %}
 _相当完美的内置相机_
@@ -37,13 +37,13 @@ _未知的支持情况_
 未知的支持情况
 {% endhint %}
 
-### Cheat Engine Camera Tool
+### [Cheat Engine Camera Tool](https://www.igp.wiki/)
 
 {% hint style="info" %}
 未知的支持情况
 {% endhint %}
 
-### Others
+### [Others](https://www.igp.wiki/)
 
 {% hint style="info" %}
 未知的支持情况
@@ -58,6 +58,4 @@ _未知的支持情况_
 ### Mod
 
 ## 相关链接
-
-{% embed url="https://assassinscreed.fandom.com/zh/wiki/%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1%EF%BC%9A%E8%8B%B1%E7%81%B5%E6%AE%BF" caption="" %}
 

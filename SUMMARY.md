@@ -27,7 +27,5 @@
 
 ## 关于 <a id="about"></a>
 
----
-
-* [参与编辑](join-team.md)
+* [参与编辑](about/join-team.md)
 

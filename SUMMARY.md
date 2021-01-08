@@ -24,6 +24,7 @@
   * [看门狗2](game-list/ubisoft/watch_dogs-2.md)
 * [CD Projekt Red](game-list/cd-projekt-red/README.md)
   * [赛博朋克2077](game-list/cd-projekt-red/cyberpunk-2077.md)
+  * [巫师3：狂猎](game-list/cd-projekt-red/the-witcher-3-wild-hunt.md)
 
 ## 关于 <a id="about"></a>
 
